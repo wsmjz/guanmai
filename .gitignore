@@ -1,0 +1,16 @@
+
+node_modules
+
+dist
+
+yarn.lock
+package-lock.json
+
+.vscode
+
+.history
+
+.umi
+.umi-production
+
+build
